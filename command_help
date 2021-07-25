@@ -1,0 +1,15 @@
+pavucontrol -- audio control
+blueman -- bluetooth control
+iwctl -- wifi control
+ranger -- file manager
+wlogout -- logout/shutdown/restart
+brightnessctl set <%> -- set backlight brightness
+
+Sway Keybinds
+Win + D -- application launcher
+Win + Shift + Q -- close program
+Win + Shift + E -- exit sway
+Win + Enter -- terminal
+Win + <arrow keys> -- focus different window
+Win + <0-9> -- go to workspace <0-9>
+Win + Shift + <0-9> -- send window to <0-9> workspace
